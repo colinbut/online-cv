@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Colin But
-    tagline: DevOps Engineer
+    tagline: DevOps Engineer | AWS
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -43,13 +43,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      A Senior Software/DevOps Engineer who specialises working on the AWS cloud with a strong varied development background in both backend + frontend. 
+      With a broad technical experience accumulated to date allowed me to apply my range of technical skills across numerous business domains.
 
-      Second paragraph if required.
+      A Developer turned DevOps Engineer who is passionate about Infrastructure as Code, creating Pipeline as Code and a firm believer in close collaboration between 
+      Developers & Operators aiming to help bridge the gap and shorten the overall release cycle.
+      
+      An effective team member who is very hands-on and takes ownership of business & technical requirements taking them from concept right through to production.
 
 education:
     - degree: MEng in Computer Science
