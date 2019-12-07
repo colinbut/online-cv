@@ -254,25 +254,26 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+certifications:
+    title: Certifications/Training
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    certs:
+      - title: AWS Certified Cloud Practitioner
+        institution: Amazon Web Services (AWS)
+        date: "2019"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "M101J: MongoDB for Java Developers"
+        institution: MongoDB
+        date: "2017"
+        
+      - title: "M001: MongoDB Basics"
+        institution: MongoDB
+        date: "2017"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Oracle Certified Associate, Java SE 7 Programmer"
+        institution: Oracle
+        date: "2014"
 
 skills:
     title: Skills &amp; Proficiency

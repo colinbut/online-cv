@@ -1,5 +1,5 @@
-{% assign publications = site.data.data.publications %}
-{% if publications %}
+{% assign certifications = site.data.data.certifications %}
+{% if certifications %}
 <section class="section publications-section">
 
   <h2 class="section-title">
@@ -7,7 +7,7 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
-    {{ publications.title }}
+    {{ certifications.title }}
   </h2>
 
   {% if publications.intro %}
@@ -16,11 +16,11 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in publications.papers %}
+  {% for certification in certifications.certs %}
   <div class="item">
-    <div class="publication-title">{{ publication.title }}</div>
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="publication-title">{{ certification.title }}</div>
+    <div class="publication-authors">{{ certification.institution }}</div>
+    <div class="publication-conference">{{ certification.date }}</div>
   </div><!--//item-->
   {% endfor %}
 
