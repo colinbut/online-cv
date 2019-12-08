@@ -29,16 +29,6 @@ sidebar:
 
       - idiom: Chinese (Cantonese)
         level: Native
-        
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -266,7 +256,7 @@ certifications:
       - title: "M101J: MongoDB for Java Developers"
         institution: MongoDB
         date: "2017"
-        
+
       - title: "M001: MongoDB Basics"
         institution: MongoDB
         date: "2017"
