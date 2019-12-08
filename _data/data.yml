@@ -174,8 +174,11 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Java 6, JDBC, Multi-threading/Concurrency, Oracle RDBMS, SQL, PL/SQL, XML
+          - Using Bash Shell Scripting to create scripts that automate deployment of application to on- premise physical bare metal servers.
+          - Deadlock investigations, searching for throughput spikes using low level traditional programming techniques (timing measurements to do code instrumentation, Thread dumps)
+          - Performance Testing, application & database bottlenecks diagnosis
+          - Java JVM heap memory, CPU, Threads, Garbage Collection analysis & fine tuning
 
     - role: Software Engineer
       time: 2011 - 2014
