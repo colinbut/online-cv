@@ -83,8 +83,13 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point 
+          - Ansible, Kubernetes, Docker, Python, Java, Elastic (ELK) Stack, ReactJS, Spring Boot
+          - Deployment automation using Ansible, Python
+          - General workflow automation using Python
+          - CI/CD pipelines creation in Jenkins using Jenkins Pipelines
+          - Continuous Delivery practices proposals
+          - Implementing Continuous Deployment by automating deployment of built applications from Jenkins CI build server to various Dev/Test servers
+          - Centralised monitoring using Elastic (ELK) Stack - ElasticSearch, Logstash, Kibana, Beats
 
     - role: DevOps Engineer
       time: 2018 - 2019
@@ -96,8 +101,10 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - AWS (EKS, ECS, ECR, DynamoDB, RDS, Kinesis, Cloudformation), Terraform, Kubernetes, Docker, Microservices, Kafka, Java, Kotlin, PostgreSQL, CockroachDB, Prometheus, Grafana Creating Terraform configuration to provision infrastructure resources on AWS
+          - Actively supporting Java Spring Boot microservices on Kubernetes
+          - API integration with 3rd party services (Companies House, Due Diligence) for ‘onboarding’ a business customer onto 10x’s banking platform
+          - Experimenting with Kotlin, CockRoachDB for new microservices
 
     - role: Java Developer/DevOps Engineer
       time: 2018 - 2019
@@ -122,8 +129,8 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Java (6,7,8), Spring, Spring Boot, TDD, BDD, J2EE, EJBs, JPA, JMS, JTA, JBoss, WebSockets, DB2, MySQL, MongoDB, REST, ActiveMQ, Camel, ReactJS, Bootstrap, GCP 
+          - Developing backend bingo system (Java 6, Spring, J2EE), in-house bingo scheduling tool (Java 8, Spring Boot, MySQL, MongoDB, ReactJS)
 
     - role: Java Developer
       time: 2015 - 2016
@@ -135,8 +142,8 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Java 7, Spring, Java EE, JDBC, JPA, Hibernate, JSP, JSTL, AWS (EC2, RDS, S3, ElasticCache - Redis), JSON, XML, REST, SQL, MySQL, JS, JQuery, HTML, CSS 
+          - Developing a task management web portal for IKEA in managing the procurement and sales of solar panels online which involved payment integration with a payment provider (WorldPay)
 
     - role: Software Engineer
       time: 2014 - 2015
@@ -148,8 +155,8 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Java, AngularJS, XML, Tomcat, Oracle RDBMS, PostgreSQL, SQL, Git, Splunk
+          - Testing a data migration application that migrates data from Oracle RDBMS to a PostgreSQL          
 
     - role: Software Engineer
       time: 2014 - 2015
@@ -161,8 +168,8 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Python, Redis, Riak KV, Nginx, Performance & Load Testing, Non-Functional Testing
+          - Doing DevOps work for a back end messaging system for the NHS that stream data between external systems to in-house systems
 
     - role: Software Engineer
       time: 2011 - 2014
