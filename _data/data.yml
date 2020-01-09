@@ -73,15 +73,7 @@ experiences:
       time: 2019 - Present
       company: Credit Agricole - Corporate and Investment Bank, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Working in the CVA/CCC team to perform DevOps duties around the Bank's core CVA trading applications that peforms trading simulations. In addition, assisting with the migration of legacy monolithic applications that was running on JBoss/Tomcat application servers/web containers to running on modern infrastructure, i.e. Docker containers operting within the Kubernetes cluster and providing adhoc bug fixes & business feature developments.
 
           - Ansible, Kubernetes, Docker, Python, Java, Elastic (ELK) Stack, ReactJS, Spring Boot
           - Deployment automation using Ansible, Python
