@@ -87,15 +87,14 @@ experiences:
       time: 2018 - 2019
       company: 10x Banking, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Working in a horizontal cross-functional feature team to help deliver a particular slice of a larger platform domain. Collaborating with both the Developers & Operators/Infrastructure Engineers in various different teams to help bridge the gap between the two disparate discipline.
 
-          - AWS (EKS, ECS, ECR, DynamoDB, RDS, Kinesis, Cloudformation), Terraform, Kubernetes, Docker, Microservices, Kafka, Java, Kotlin, PostgreSQL, CockroachDB, Prometheus, Grafana Creating Terraform configuration to provision infrastructure resources on AWS
+          - Creating Jenkins 2.0+ CI/CD Pipelines with Jenkinsfile
+          - Doing Infrastructure as Code: coding Terraform configuration to provision AWS resources
           - Actively supporting Java Spring Boot microservices on Kubernetes
           - API integration with 3rd party services (Companies House, Due Diligence) for ‘onboarding’ a business customer onto 10x’s banking platform
+          - Doing a PoC for doing Consumer-Driven-Contract (CDC) Testing using Pact
+          - Advanced Routing with a Service Mesh in LinkerD for implemting Blue/Green Deployments
           - Experimenting with Kotlin, CockRoachDB for new microservices
 
     - role: Java Developer/DevOps Engineer
@@ -115,65 +114,53 @@ experiences:
       time: 2016 - 2018
       company: Gamesys, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Working in the Bingo Product Development team to support and maintain an online Bingo game where the whole team was responsible for both the frontend UI development and also providing the backend core bingo gaming engine. As a backend engineer I was mainly responsible for developing new business features as add-ons to the existing functionality of the bingo engine. Additionally, creating and developing new in-house scheduling tool (both frontend & backend) for scheduling bingo games.
 
-          - Java (6,7,8), Spring, Spring Boot, TDD, BDD, J2EE, EJBs, JPA, JMS, JTA, JBoss, WebSockets, DB2, MySQL, MongoDB, REST, ActiveMQ, Camel, ReactJS, Bootstrap, GCP 
-          - Developing backend bingo system (Java 6, Spring, J2EE), in-house bingo scheduling tool (Java 8, Spring Boot, MySQL, MongoDB, ReactJS)
+          - Worked on backend Bingo Engine built in Java 7, JavaEE, Spring Framework, JMS, DB2, ActiveMQ, JBoss.
+          - Did backend development of Bingo games scheduling tool involved around a Java 8 Spring Boot MVC web application with JPA & Hibernate connecting to MySQL database
+          - Did frontend development of Bingo games scheduling tool which was made using ReactJS, Redux, Bootstrap, Jest, Webpack, ES6
+          - Development of a Proof-of-Concept (PoC) on establishing the data model of the bingo scheduling tool backend connecting to a NoSQL MongoDB datastore.Development of a Proof-of-Concept (PoC) on establishing the data model of the bingo scheduling tool backend connecting to a NoSQL MongoDB datastore.
+          - Responsible for creating and running CI build jobs on various CI systems for different apps (Jenkins, Hudson, Bamboo, GoCD)
+          - Regular maintenance of database structure & data by writing & executing both Liquibase database migration scripts and adhoc SQL scripts
+          - Continuous monitoring application using a whole host of monitoring tools (AppDynamnics, ELK stack, Grafana, Splunk, Nagios)
+          - Actively engaging the tagging of artifacts and liaising with Release Manager in releasing to Production on a bi-weekly release cycle.
 
     - role: Java Developer
       time: 2015 - 2016
       company: Solarcentury, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Working in a small in-house development team developing an online task management & e-commmerce web portal for IKEA which was integrated into thier website. The developed system manages the lifecycles of solar panels from production to sales incl. allowing the public users to purchase solar panels online. Core activities resolved around doing backend Java development with minor frontend work.
 
-          - Java 7, Spring, Java EE, JDBC, JPA, Hibernate, JSP, JSTL, AWS (EC2, RDS, S3, ElasticCache - Redis), JSON, XML, REST, SQL, MySQL, JS, JQuery, HTML, CSS 
-          - Developing a task management web portal for IKEA in managing the procurement and sales of solar panels online which involved payment integration with a payment provider (WorldPay)
-
+          - Working on several backend features development of an online task management & e-commerce web portal.
+          - Occasional frontend work (HTML, CSS, JS, JQuery) on a solar panel calculator tool which is integrated into IKEA's main website.
+          - Help improve the team's agile development process, streamlining it in order to make it more efficient.
+          
     - role: Software Engineer
       time: 2014 - 2015
       company: NHS Digital via Bjss, Leeds
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Residing in a project team of 80+ people helping deliver a like-for-like replacement e-Referral Service (eRS) for the previous NHS online appointment booking system - Choose and Book (CAB). Working on the Data Migration stream.
 
-          - Java, AngularJS, XML, Tomcat, Oracle RDBMS, PostgreSQL, SQL, Git, Splunk
-          - Testing a data migration application that migrates data from Oracle RDBMS to a PostgreSQL          
-
+          - Developing & testing the migration of production data from existing system's Oracle RDBMS to new system's PostgreSQL.
+          - Setting up and providing full test environments for data migration testing.
+          - Assisting with functional testing of key systems feature.
+          
     - role: Software Engineer
       time: 2014 - 2015
       company: NHS Digital via Bjss, Leeds
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Within a ‘DevOps’ focused project team of 40+ people, assisting with the delivery of NHS Spine II which is a complete-rewrite of NHS's legacy backend integration messaging system (Spine I).
 
-          - Python, Redis, Riak KV, Nginx, Performance & Load Testing, Non-Functional Testing
-          - Doing DevOps work for a back end messaging system for the NHS that stream data between external systems to in-house systems
-
+          - Application monitoring using monitoring tools like Splunk, observing application performance from charts and graphs.
+          - Non functional testing of failing over key components of the system's architecture like killing Redis sentinel.
+          - Prioritization of automated peformance testing using Grinder (a Java Load Testing tool) with test scripts implemented using Jython (a Java implementation of Python).
+          
     - role: Software Engineer
       time: 2011 - 2014
       company: Thomson Reuters via Bjss, Leeds
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Working in a project focused team of 20+ people offsite on Bjss's development centre for Thomson Reuters on their backend New Matching Host (NMH) which is a real-time low latency multithreaded high availability FX trading host system for matching traders deals. From doing operations & infrastructure type tasks in setting up/provisioning bare-metal servers, to fixing defects, non-functional testing, performance testing, administrating databases, implementing in-house utility tools, testing tools, trading tools.
 
-          - Java 6, JDBC, Multi-threading/Concurrency, Oracle RDBMS, SQL, PL/SQL, XML
           - Using Bash Shell Scripting to create scripts that automate deployment of application to on- premise physical bare metal servers.
           - Deadlock investigations, searching for throughput spikes using low level traditional programming techniques (timing measurements to do code instrumentation, Thread dumps)
           - Performance Testing, application & database bottlenecks diagnosis
@@ -183,14 +170,7 @@ experiences:
       time: 2011 - 2014
       company: Bjss, Leeds
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        A Software Engineer participating in different projects for multiple clients being involved in throughout the whole Software Development lifecycle (SDLC).
 
     - role: Web Developer
       time: 2010 - 2011
@@ -209,14 +189,7 @@ experiences:
       time: 2009 - 2009
       company: Sciencesoft (Internship), Glasgow
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        A summer internship where I was in a small team of three fellow interns to work on an automation test suite for testing the functional features of the company's core suite of products which were a series of different applications that performs modelling for oil and gas energy simulations.
 
 projects:
     title: Projects
@@ -226,25 +199,25 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Microservice AWS Demo
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Build, Test, Deploy, Run microservices on the AWS cloud compute services (EC2, ECS, EKS, Elastic Beanstalk)"
 
-      - title: DevStudio
+      - title: Snowman
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A demonstration into what a typical traditional monolithic enterprise application look like"
 
-      - title: Tempo
+      - title: Sales Order System
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A simple full stack Java/JavaEE Spring MVC web application"
 
-      - title: Atom
+      - title: Centralized Logging with the Elastic Stack
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Showcase how to setup and configure a logging solution using the Elastic Stack (ElasticSearch, Logstash, Kibana, & co.)"
 
-      - title: Delta
+      - title: Microservices Enterprise Application
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A enterprise scale like application built using the modern microservice architecture."
 
 certifications:
     title: Certifications/Training
