@@ -101,14 +101,7 @@ experiences:
       time: 2018 - 2019
       company: OpenCredo, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        As an Associate of OpenCredo, providing java development services to work on their client site on a project to help in deliver a platform for a new challenger bank
 
     - role: Java Developer
       time: 2016 - 2018
@@ -181,9 +174,6 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
     - role: C# Developer
       time: 2009 - 2009
