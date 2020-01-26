@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Colin But
-    tagline: DevOps Engineer | AWS
+    tagline: Java Developer
     avatar: me_linkedin.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -69,8 +69,8 @@ education:
           - Bullet point 
 
 experiences:
-    - role: DevOps Engineer
-      time: 2019 - Present
+    - role: Java Developer
+      time: 2019 - 2020
       company: Credit Agricole - Corporate and Investment Bank, London
       details: |
         Working in the CVA/CCC team to perform DevOps duties around the Bank's core CVA trading applications that peforms trading simulations. In addition, assisting with the migration of legacy monolithic applications that was running on JBoss/Tomcat application servers/web containers to running on modern infrastructure, i.e. Docker containers operting within the Kubernetes cluster and providing adhoc bug fixes & business feature developments.
@@ -83,7 +83,7 @@ experiences:
           - Implementing Continuous Deployment by automating deployment of built applications from Jenkins CI build server to various Dev/Test servers
           - Centralised monitoring using Elastic (ELK) Stack - ElasticSearch, Logstash, Kibana, Beats
 
-    - role: DevOps Engineer
+    - role: Java Engineer
       time: 2018 - 2019
       company: 10x Banking, London
       details: |
@@ -97,7 +97,7 @@ experiences:
           - Advanced Routing with a Service Mesh in LinkerD for implemting Blue/Green Deployments
           - Experimenting with Kotlin, CockRoachDB for new microservices
 
-    - role: Java Developer/DevOps Engineer
+    - role: Java Developer
       time: 2018 - 2019
       company: OpenCredo, London
       details: |
@@ -234,22 +234,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java, Python, ReactJS
+      - name: Java, JavaEE, Spring Boot, JavaScript, ReactJS
         level: 98%
 
-      - name: Cloud Computing - AWS
+      - name: SQL, Python, Groovy, Kotlin, Bash
         level: 98%
 
-      - name: Terraform & Cloudformation
+      - name: JUnit, TDD, BDD, Cucumber
         level: 98%
 
-      - name: Jenkins CI/CD Pipelines 
+      - name: Kafka, ActiveMQ, RabbitMQ
         level: 95%
 
-      - name: Docker & Kubernetes
+      - name: Docker, Kubernetes, JBoss, Tomcat
         level: 85%
 
-      - name: Ansible
+      - name: MySQL, PostgreSQL, MongoDB, DynamoDB, Oracle
         level: 60%
 
 footer: >
