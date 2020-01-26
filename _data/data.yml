@@ -76,7 +76,7 @@ experiences:
 
           - Development of monitoring and alerting application in Java, Kotlin, Spring Boot, ReactJS
           - Centralised monitoring using Elastic (ELK) Stack - ElasticSearch, Logstash, Kibana, Beats
-          - Maintaining trading simulations applications in Java, Spring 
+          - Maintaining trading simulations applications in Java, Spring Framework
           - Supporting the development of applications in Docker running on Kubernetes
           - Continuous Delivery practices proposals
           
@@ -86,13 +86,14 @@ experiences:
       details: |
         Working in a horizontal cross-functional feature team to help deliver a particular slice of a larger platform domain. Collaborating with both the Developers & Operators/Infrastructure Engineers in various different teams to help bridge the gap between the two disparate discipline.
 
-          - Creating Jenkins 2.0+ CI/CD Pipelines with Jenkinsfile
           - Creating and developing new microservices in Java, Spring Boot, AWS DynamoDB
           - Working with Kafka, AWS Kinesis Streams for messaging between different microservices
           - Actively supporting existing microservices on Kubernetes in AWS EKS
           - Doing Infrastructure as Code: coding Terraform configuration to provision AWS resources
+          - Creating Jenkins 2.0+ CI/CD Pipelines with Jenkinsfile
           - API integration with 3rd party services (Companies House, Due Diligence) for ‘onboarding’ a business customer onto 10x’s banking platform
           - Doing a PoC for doing Consumer-Driven-Contract (CDC) Testing using Pact
+          - Centralised logging using SumoLogic & AWS Cloudwatch, monitoring metrics with Prometheus with Grafana
           - Experimenting with Kotlin, CockRoachDB for new microservices
 
     - role: Java Developer
@@ -132,6 +133,7 @@ experiences:
       details: |
         Residing in a project team of 80+ people helping deliver a like-for-like replacement e-Referral Service (eRS) for the previous NHS online appointment booking system - Choose and Book (CAB). Working on the Data Migration stream.
 
+          - System consist of a core Java backend application developed in Spring Framework, middleware tier built in PHP serving dynamic html pages with AngularJS
           - Developing & testing the migration of production data from existing system's Oracle RDBMS to new system's PostgreSQL.
           - Setting up and providing full test environments for data migration testing.
           - Assisting with functional testing of key systems feature.
@@ -142,8 +144,9 @@ experiences:
       details: |
         Within a ‘DevOps’ focused project team of 40+ people, assisting with the delivery of NHS Spine II which is a complete-rewrite of NHS's legacy backend integration messaging system (Spine I).
 
+          - System developed using Python with Flask web framework on a Tornado web server fronted by Nginx, along with Redis for user session data and Riak KV NoSQL data store for core data storage
           - Application monitoring using monitoring tools like Splunk, observing application performance from charts and graphs.
-          - Non functional testing of failing over key components of the system's architecture like killing Redis sentinel.
+          - Non functional testing which incl. Failover & Recovery Testing.
           - Prioritization of automated peformance testing using Grinder (a Java Load Testing tool) with test scripts implemented using Jython (a Java implementation of Python).
           
     - role: Software Engineer
@@ -152,7 +155,10 @@ experiences:
       details: |
         Working in a project focused team of 20+ people offsite on Bjss's development centre for Thomson Reuters on their backend New Matching Host (NMH) which is a real-time low latency multithreaded high availability FX trading host system for matching traders deals. From doing operations & infrastructure type tasks in setting up/provisioning bare-metal servers, to fixing defects, non-functional testing, performance testing, administrating databases, implementing in-house utility tools, testing tools, trading tools.
 
-          - Using Bash Shell Scripting to create scripts that automate deployment of application to on- premise physical bare metal servers.
+          - Active development of utility and test tools using core Java (multithreading & concurrency libraries)
+          - Assist with bug/defect fixing of existing core features from the platform
+          - Managing existing Ant build scripts and creating new Ant build scripts (later Gradle build scripts)
+          - Using Bash Shell Scripting to create scripts that automate deployment of application to on-premise physical bare metal servers.
           - Deadlock investigations, searching for throughput spikes using low level traditional programming techniques (timing measurements to do code instrumentation, Thread dumps)
           - Performance Testing, application & database bottlenecks diagnosis
           - Java JVM heap memory, CPU, Threads, Garbage Collection analysis & fine tuning
